@@ -113,8 +113,8 @@ Distributed under the **MIT License**.  See `LICENSE` for details.
 
 | Channel | Handle / URL |
 |---------|--------------|
-| X / Twitter | [@TheKandDiCoop](https://x.com/TheKandDiCoop) |
+| X / Twitter | [@KristalCornwell](https://x.com/KristalCornwell) |
 | Discord | `#cairx‑core` (invite link TBA) |
-| Email | kristal.cairx@proton.me |
+| Email | kristalcornwell@gmail.com |
 
 *Light on a hill?  Consider this repo the bonfire.  Submit your spark.*
